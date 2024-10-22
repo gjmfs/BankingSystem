@@ -1,0 +1,18 @@
+.Home {
+  background-color: rgb(53, 52, 52);
+  color: aliceblue;
+  height: 100vh;
+}
+
+.Home .card {
+  background-color: rgb(2, 139, 139);
+  color: aliceblue;
+  text-align: center;
+  height: 20vh;
+  transition: 0.5ms ease-out;
+}
+.Home .card a {
+  padding-top: 8vh;
+  text-decoration: none;
+  color: aliceblue;
+}
